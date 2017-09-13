@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata minClientVersion="2.8">
+    <id>post-aspect.Library</id>
+    <version>$version$</version>
+    <title>post-aspect.Library</title>
+    <authors>TJ Bakre</authors>
+    <owners>VMWare</owners>
+    <developmentDependency>false</developmentDependency>
+    <licenseUrl>http://github.com/vmware/post-aspect/LICENSE.txt</licenseUrl>
+    <projectUrl>http://github.com/vmware/post-aspect</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>.Net Aspect Post Library</description>
+    <summary />
+    <tags>Cecil, Post Compile, AOP, AOP Framework</tags>
+  </metadata>
+</package>
